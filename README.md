@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @AlphaCodz
-- 👀 I’m interested in Learning new things
-- 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on more challenging PHP projects to boost my Knowledge
-- 📫 How to reach me adeyanjuabiona69@gmail.com
+<h1>Hi,😊 My name is Abiona Israel.</h1>
+ <br>
+i am a self-taught PHP backend developer., and also a student of Yaba College of Technology, studying Computer science
+<br>
+My hobbies are,
+<li>
+  Coding
+ <li>
+  Drumming
+  <li>
+  Playing the piano
+   <li>
+  Making Researchs 
+   <li>
+     Learning New things
 
-<!---
-AlphaCodz/AlphaCodz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+     I am looking forward to work in a reputable company as an intern.
+     
+  😏ok! Can i know you?   
