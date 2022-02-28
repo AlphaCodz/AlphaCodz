@@ -1,6 +1,6 @@
 <h1>Hi,😊 My name is Abiona Israel.</h1>
  <br>
-i am a self-taught PHP/Laravel backend developer., and also a student of Yaba College of Technology, studying Computer science
+i am a self-taught PHP, PYTHON backend developer., and also a student of Yaba College of Technology, studying Computer science
 <br>
 My hobbies are,
 <li>
