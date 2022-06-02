@@ -5,7 +5,7 @@
 
 
 <h2>Hey! </h2>
- I'm a self-taught programmer who is learning to code for fun and enjoys learning new things and solving problems. I have the hope of one day working at a company as a software developer, and until then I'll keep working on learning each day and enjoying the process. I have a fairly outgoing personality, so feel free to say *hello*! <hr>
+ I'm a self-taught Python | Django | PHP | Laravel programmer who is learning to code for fun and enjoys learning new things and solving problems. I have the hope of one day working at a company as a software developer, and until then I'll keep working on learning each day and enjoying the process. I have a fairly outgoing personality, so feel free to say *hello*! <hr>
 
 <h2 align = "center" >My Tech Stack</h2>
 
@@ -29,7 +29,7 @@
 #### Pronouns: He/Him/His/Arty/Alpha :) <hr>
    
 ## How to reach me? 
-  Twitter - [AlphaLeader](https://twitter.com/Alphaleader73) </br>
+  Twitter - [Israel-Abiona](https://twitter.com/Alphaleader73) </br>
   LinkedIn - [Israel-Abiona](https://www.linkedin.com/in/israel-abiona-2021b7231) </br>
   E-mail - adeyanjuabiona69@gmail.com </br>
   Contact - +2349017166035 <hr> 
