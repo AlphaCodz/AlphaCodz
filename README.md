@@ -29,9 +29,7 @@
 #### Pronouns: He/Him/His/Arty/Alpha :) <hr>
    
 <!-- ## How to reach me?
-  Twitter - [itunuayo_john](https://twitter.com/) </br>
-  LinkedIn - [Adebiyi Itunuayo](https://www.linkedin.com/in/adebiyi-itunuayo-397bab151) </br>
-  E-mail - itunuayoadebiyi@gmail.com </br>
-  Contact - +2347039910992 <hr> -->
-  
-### Funfact - Stack-Overflow and Google :)))
+  Twitter - [AlphaLeader](https://twitter.com/Alphaleader73) </br>
+  LinkedIn - [Israel-Abiona](https://www.linkedin.com/in/israel-abiona-2021b7231) </br>
+  E-mail - adeyanjuabiona69@gmail.com </br>
+  Contact - +2349017166035 <hr> --!>
