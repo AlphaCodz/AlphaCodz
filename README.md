@@ -15,7 +15,11 @@
 ## What am I learning right now? 
   - Working through The Essed Project- which is  about redefining education in Africa
   - Computer Science - Yaba College of Technology, Lagos, NG.
- 
+  
+## Little things that count.
+Daily Dev card awarded for consistency in reading different tech articles
+
+ https://api.daily.dev/devcards/e18742c1ad87429b8d9ae30cb64ffb5e.png?r=exy
  
 ## What am I currently working on?  
   Fullstack Road work, Essential Education Project [ESSED]
