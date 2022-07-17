@@ -19,8 +19,9 @@
 ## Little things that count.
 Daily Dev card awarded for consistency in reading different tech articles
 
- https://api.daily.dev/devcards/e18742c1ad87429b8d9ae30cb64ffb5e.png?r=exy
- 
+<a href="https://app.daily.dev/AlphaLeader73"><img src="https://api.daily.dev/devcards/e18742c1ad87429b8d9ae30cb64ffb5e.png?r=exy" width="400" alt="Israel Abiona's Dev Card"/></a> 
+
+
 ## What am I currently working on?  
   Fullstack Road work, Essential Education Project [ESSED]
 
