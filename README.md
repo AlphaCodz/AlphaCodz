@@ -36,5 +36,5 @@ Daily Dev card awarded for consistency in reading different tech articles
 ## How to reach me? 
   Twitter - [Israel-Abiona](https://twitter.com/Alphaleader73) </br>
   LinkedIn - [Israel-Abiona](https://www.linkedin.com/in/israel-abiona-2021b7231) </br>
-  E-mail - adeyanjuabiona69@gmail.com </br>
-  Contact - +2349017166035 <hr> 
+  E-mail - israelpy7@gmail.com </br>
+  Contact - +2349052435027 <hr> 
