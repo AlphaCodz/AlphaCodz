@@ -1,10 +1,7 @@
-# Hello friend... <hr>
+# Hello friend, my name is Israel <hr>
 
 <!-- <p align = "center"><img src= "https://user-images.githubusercontent.com/44436048/155865918-0513c726-3553-49b0-a62c-e6b4307cd397.gif"><i>TechScrolls</i></img></p> -->
 
-
-
-<h2>Hey! </h2>
  I'm a self-taught Python | Django | PHP | Laravel programmer who is learning to code for fun and enjoys learning new things and solving problems. I have the hope of one day working at a company as a software developer, and until then I'll keep working on learning each day and enjoying the process. I have a fairly outgoing personality, so feel free to say *hello*! <hr>
 
 <h2 align = "center" >My Tech Stack</h2>
