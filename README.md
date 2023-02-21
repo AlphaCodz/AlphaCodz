@@ -10,7 +10,7 @@
 
 
 ## What am I learning right now? 
-  - Working through The Essed Project- which is  about redefining education in Africa
+  - Freelance Projects
   - Computer Science - Yaba College of Technology, Lagos, NG.
   
 ## Little things that count.
