@@ -1,8 +1,8 @@
-# Hello friend, my name is Israel <hr>
+# Hello My name is Israel <hr>
 
 <!-- <p align = "center"><img src= "https://user-images.githubusercontent.com/44436048/155865918-0513c726-3553-49b0-a62c-e6b4307cd397.gif"><i>TechScrolls</i></img></p> -->
 
- I'm a self-taught Python | Django | PHP | Laravel programmer who is learning to code for fun and enjoys learning new things and solving problems.  I have worked in some notable industries such as <strong>EdTech</strong>, <strong>MedTech</strong>, <strong>Tourism Tech</strong> <hr>
+ I am a self-taught programmer with a strong background in Python, Django, PHP, and Laravel. I have a passion for coding and enjoy learning new skills and solving complex problems. Over the years, I have gained experience working in various industries, including EdTech, MedTech, and Tourism Tech. In these roles, I have honed my skills in developing web applications, working with APIs, and building scalable solutions. I am a fast learner with the ability to quickly adapt to new technologies and programming languages. My attention to detail, passion for coding, and strong problem-solving skills make me an ideal candidate for any programming role. I am confident that I can add value to your team and contribute to the success of your projects. <hr>
 
 <h2 align = "center" ># My Toolbox</h2>
 
@@ -11,17 +11,12 @@
 
 ## What am I learning right now? 
   - Freelance Projects
-  - Computer Science - Yaba College of Technology, Lagos, NG.
-  
-## Little things that count.
-Daily Dev card awarded for consistency in reading different tech articles
-
-<a href="https://app.daily.dev/AlphaLeader73"><img src="https://api.daily.dev/devcards/e18742c1ad87429b8d9ae30cb64ffb5e.png?r=exy" width="400" alt="Israel Abiona's Dev Card"/></a> 
-
+  - Computer Science - Yaba College of Technology, Lagos, NG. 
 
 ## What am I currently working on?  
-  Fullstack Road work, Essential Education Project [ESSED]
-
+ <ol>
+ <li> <strong>Medico:</strong> Medico is an API that you are building for a healthcare application. The purpose of the API is to provide a way for users of the healthcare application to access and manage their healthcare-related data, such as medical records, appointments, prescriptions, and test results, among other things.</li>
+</ol
 #### I’m looking for help with growth as a programmer, coder. And growth in general.
 
 ### When I'm not programming?
@@ -31,7 +26,7 @@ Daily Dev card awarded for consistency in reading different tech articles
 #### Pronouns: He/Him/His/Arty/Alpha :) <hr>
    
 ## How to reach me? 
-  Twitter - [Israel-Abiona](https://twitter.com/Alphaleader73) </br>
+  Twitter - [Israel-Abiona](https://twitter.com/dbackendguy) </br>
   LinkedIn - [Israel-Abiona](https://www.linkedin.com/in/israel-abiona-2021b7231) </br>
   E-mail - israelpy7@gmail.com </br>
   Contact - +2349052435027 <hr> 
