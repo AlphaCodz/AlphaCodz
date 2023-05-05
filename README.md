@@ -2,7 +2,7 @@
 
 <!-- <p align = "center"><img src= "https://user-images.githubusercontent.com/44436048/155865918-0513c726-3553-49b0-a62c-e6b4307cd397.gif"><i>TechScrolls</i></img></p> -->
 
- I am a self-taught programmer with a strong background in Python, Django, PHP, and Laravel. I have a passion for coding and enjoy learning new skills and solving complex problems. Over the years, I have gained experience working in various industries, including EdTech, MedTech, and Tourism Tech. In these roles, I have honed my skills in developing web applications, working with APIs, and building scalable solutions. I am a fast learner with the ability to quickly adapt to new technologies and programming languages. My attention to detail, passion for coding, and strong problem-solving skills make me an ideal candidate for any programming role. I am confident that I can add value to your team and contribute to the success of your projects. <hr>
+ I am a self-taught programmer with a strong background in Python, Django, Django REST Framwework. I have a passion for coding and enjoy learning new skills and solving complex problems. Over the years, I have gained experience working in various industries, including EdTech, MedTech, and Tourism Tech. In these roles, I have honed my skills in developing web applications, working with APIs, and building scalable solutions. I am a fast learner with the ability to quickly adapt to new technologies and programming languages. My attention to detail, passion for coding, and strong problem-solving skills make me an ideal candidate for any programming role. I am confident that I can add value to your team and contribute to the success of your projects. <hr>
 
 <h2 align = "center" ># My Toolbox</h2>
 
